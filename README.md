@@ -2,7 +2,7 @@
 
 ### Desenvolvedora | Analista de Sistemas em formação Python · SQL · AWS · Integração de Sistemas
 
-Sou apaixonada por automação e integração de sistemas. Estou construindo minha carreira com foco em **desenvolvimento backend com Python**, consumo de **APIs REST** e infraestrutura em **nuvem AWS**. Gosto de transformar processos manuais em soluções automatizadas e escaláveis.
+Tenho grande interesse por automação e integração de sistemas. Estou construindo minha carreira com foco em **desenvolvimento backend com Python**, consumo de **APIs REST** e infraestrutura em **nuvem AWS**. Gosto de transformar processos manuais em soluções automatizadas e escaláveis.
 
 ---
 

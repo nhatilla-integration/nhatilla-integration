@@ -21,16 +21,6 @@ Tenho grande interesse por automação e integração de sistemas. Estou constru
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### [portfólio-nhatilla](https://github.com/nhatilla-integration/portfólio-nhatilla)
-Projetos de integração com APIs e desenvolvimento em Python. Foco em consumo de APIs REST e automação de processos.
-
-### [aws-ec2-lab](https://github.com/nhatilla-integration/aws-ec2-lab)
-Documentação prática do laboratório AWS EC2 — parte do Desafio DIO. Criação, configuração e gerenciamento de instâncias na nuvem.
-
----
-
 ## 📜 Certificações (DIO · 2025)
 
 | Certificado | Área |

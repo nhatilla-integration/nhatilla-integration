@@ -4,7 +4,7 @@
 
 </div>
 
-### 🇧🇷 Desenvolvedora | Analista de Sistemas em formação
+### 🇧🇷 Systems Analyst & Developer
 **Python · SQL · Java · JavaScript · AWS · Integração de Sistemas**
 
 Tenho grande interesse por automação e integração de sistemas. Estou construindo minha carreira com foco em **desenvolvimento backend com Python e Java**, consumo de **APIs REST** e infraestrutura em **nuvem AWS**. Gosto de transformar processos manuais em soluções automatizadas e escaláveis.

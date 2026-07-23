@@ -47,6 +47,8 @@ Tenho grande interesse por automação e integração de sistemas. Estou constru
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**Vizi CRM**](https://github.com/nhatilla-integration/vizi-crm) | Camada analítica que identifica gargalos no funil de vendas em tempo real | React · Tailwind · Supabase |
+| [**Simulador de NFS-e**](https://github.com/nhatilla-integration/nfse-simulador) | API que simula o ciclo de emissão fiscal municipal, com modelagem híbrida SQL/NoSQL | Node.js · TypeScript · PostgreSQL · MongoDB |
+| [**Vizi Imóveis**](https://github.com/nhatilla-integration/vizi-imoveis) | Gestão de imóveis para aluguel: contratos, inquilinos e histórico de manutenções | React · Tailwind · Supabase |
 | [**Vendas API**](https://github.com/nhatilla-integration/vendas-api) | API REST para cadastro e atualização de vendas, com autenticação e auditoria | Java · Spring Boot · PostgreSQL |
 
 ---

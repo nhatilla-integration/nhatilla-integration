@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:E879F9,100:0F172A&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20a%20N%C3%A1tilla!&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
+<a href="https://natilla-alves-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/✨_VER_PORTFÓLIO_COMPLETO-E879F9?style=for-the-badge&logoColor=ffffff" />
+</a>
+
 </div>
 
 ### 🇧🇷 Systems Analyst & Developer

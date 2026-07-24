@@ -9,40 +9,53 @@
 </div>
 
 ### 🇧🇷 Systems Analyst & Developer
-**Python · SQL · Java · JavaScript · AWS · Integração de Sistemas**
+**Python · SQL · Java · JavaScript · TypeScript · Integração de Sistemas**
 
-Tenho grande interesse por automação e integração de sistemas. Estou construindo minha carreira com foco em **desenvolvimento backend com Python e Java**, consumo de **APIs REST** e infraestrutura em **nuvem AWS**. Gosto de transformar processos manuais em soluções automatizadas e escaláveis.
+Tenho grande interesse por automação e integração de sistemas. Estou construindo minha carreira com foco em **desenvolvimento backend com Python, Java e Node.js/TypeScript** e consumo de **APIs REST**. Gosto de transformar processos manuais em soluções automatizadas e escaláveis.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
+**Linguagens**
 <p>
 <img src="https://img.shields.io/badge/PYTHON-22D3EE?style=for-the-badge&logo=python&logoColor=E879F9" />
 <img src="https://img.shields.io/badge/JAVA-0F172A?style=for-the-badge&logo=openjdk&logoColor=E879F9" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-E879F9?style=for-the-badge&logo=javascript&logoColor=0F172A" />
-<img src="https://img.shields.io/badge/SQL-22D3EE?style=for-the-badge&logo=postgresql&logoColor=E879F9" />
-<img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=E879F9" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-22D3EE?style=for-the-badge&logo=typescript&logoColor=E879F9" />
+<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=E879F9" />
 </p>
+
+**Frameworks & Backend**
 <p>
 <img src="https://img.shields.io/badge/REACT-22D3EE?style=for-the-badge&logo=react&logoColor=E879F9" />
 <img src="https://img.shields.io/badge/SPRING%20BOOT-0F172A?style=for-the-badge&logo=springboot&logoColor=E879F9" />
-<img src="https://img.shields.io/badge/POSTGRESQL-E879F9?style=for-the-badge&logo=postgresql&logoColor=0F172A" />
-<img src="https://img.shields.io/badge/SUPABASE-22D3EE?style=for-the-badge&logo=supabase&logoColor=E879F9" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/GIT-0F172A?style=for-the-badge&logo=git&logoColor=E879F9" />
-<img src="https://img.shields.io/badge/GITHUB-E879F9?style=for-the-badge&logo=github&logoColor=0F172A" />
-<img src="https://img.shields.io/badge/LINUX-22D3EE?style=for-the-badge&logo=linux&logoColor=E879F9" />
-<img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E879F9" />
-<img src="https://img.shields.io/badge/CSS3-E879F9?style=for-the-badge&logo=css3&logoColor=0F172A" />
+<img src="https://img.shields.io/badge/NODE.JS-E879F9?style=for-the-badge&logo=nodedotjs&logoColor=0F172A" />
 <img src="https://img.shields.io/badge/TAILWIND-22D3EE?style=for-the-badge&logo=tailwindcss&logoColor=E879F9" />
 </p>
 
-**Cloud AWS:** EC2 · S3 · Lambda · IAM · Segurança em nuvem
-**Backend:** Python · Java (Spring Boot) · APIs REST · Automação · Lógica computacional
-**Banco de dados:** PostgreSQL · Supabase (realtime)
-**Ferramentas:** Git · GitHub · Versionamento de código · IDEs
+**Dados & Cloud**
+<p>
+<img src="https://img.shields.io/badge/POSTGRESQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=E879F9" />
+<img src="https://img.shields.io/badge/MONGODB-E879F9?style=for-the-badge&logo=mongodb&logoColor=0F172A" />
+<img src="https://img.shields.io/badge/SUPABASE-22D3EE?style=for-the-badge&logo=supabase&logoColor=E879F9" />
+<img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=E879F9" />
+</p>
+
+**Ferramentas**
+<p>
+<img src="https://img.shields.io/badge/GIT-E879F9?style=for-the-badge&logo=git&logoColor=0F172A" />
+<img src="https://img.shields.io/badge/GITHUB-22D3EE?style=for-the-badge&logo=github&logoColor=0F172A" />
+<img src="https://img.shields.io/badge/DOCKER-0F172A?style=for-the-badge&logo=docker&logoColor=E879F9" />
+<img src="https://img.shields.io/badge/LINUX-E879F9?style=for-the-badge&logo=linux&logoColor=0F172A" />
+<img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E879F9" />
+<img src="https://img.shields.io/badge/CSS3-22D3EE?style=for-the-badge&logo=css3&logoColor=E879F9" />
+</p>
+
+**Backend:** Python · Java (Spring Boot) · Node.js/TypeScript · APIs REST · Automação
+**Banco de dados:** PostgreSQL · MongoDB · Supabase (realtime)
+**Cloud:** AWS (fundamentos — EC2, S3, Lambda, IAM)
+**Ferramentas:** Git · GitHub · Docker · Versionamento de código · IDEs
 
 ---
 

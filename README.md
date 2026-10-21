@@ -9,9 +9,9 @@
 </div>
 
 ### 🇧🇷 Systems Analyst & Developer
-**Python · SQL · Java · JavaScript · TypeScript · Integração de Sistemas**
+**SQL · Java · JavaScript · TypeScript · Integração de Sistemas**
 
-Tenho grande interesse por automação e integração de sistemas. Estou construindo minha carreira com foco em **desenvolvimento backend com Python, Java e Node.js/TypeScript** e consumo de **APIs REST**. Gosto de transformar processos manuais em soluções automatizadas e escaláveis.
+Tenho grande interesse por automação e integração de sistemas. Estou construindo minha carreira com foco em **desenvolvimento backend com Java e Node.js/TypeScript** e consumo de **APIs REST**. Gosto de transformar processos manuais em soluções automatizadas e escaláveis.
 
 ---
 
@@ -19,7 +19,6 @@ Tenho grande interesse por automação e integração de sistemas. Estou constru
 
 **Linguagens**
 <p>
-<img src="https://img.shields.io/badge/PYTHON-22D3EE?style=for-the-badge&logo=python&logoColor=E879F9" />
 <img src="https://img.shields.io/badge/JAVA-0F172A?style=for-the-badge&logo=openjdk&logoColor=E879F9" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-E879F9?style=for-the-badge&logo=javascript&logoColor=0F172A" />
 <img src="https://img.shields.io/badge/TYPESCRIPT-22D3EE?style=for-the-badge&logo=typescript&logoColor=E879F9" />
@@ -34,12 +33,11 @@ Tenho grande interesse por automação e integração de sistemas. Estou constru
 <img src="https://img.shields.io/badge/TAILWIND-22D3EE?style=for-the-badge&logo=tailwindcss&logoColor=E879F9" />
 </p>
 
-**Dados & Cloud**
+**Dados**
 <p>
 <img src="https://img.shields.io/badge/POSTGRESQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=E879F9" />
 <img src="https://img.shields.io/badge/MONGODB-E879F9?style=for-the-badge&logo=mongodb&logoColor=0F172A" />
 <img src="https://img.shields.io/badge/SUPABASE-22D3EE?style=for-the-badge&logo=supabase&logoColor=E879F9" />
-<img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=E879F9" />
 </p>
 
 **Ferramentas**
@@ -48,14 +46,12 @@ Tenho grande interesse por automação e integração de sistemas. Estou constru
 <img src="https://img.shields.io/badge/GITHUB-22D3EE?style=for-the-badge&logo=github&logoColor=0F172A" />
 <img src="https://img.shields.io/badge/DOCKER-0F172A?style=for-the-badge&logo=docker&logoColor=E879F9" />
 <img src="https://img.shields.io/badge/LINUX-E879F9?style=for-the-badge&logo=linux&logoColor=0F172A" />
-<img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E879F9" />
-<img src="https://img.shields.io/badge/CSS3-22D3EE?style=for-the-badge&logo=css3&logoColor=E879F9" />
+<img src="https://img.shields.io/badge/POSTMAN-22D3EE?style=for-the-badge&logo=postman&logoColor=0F172A" />
 </p>
 
-**Backend:** Python · Java (Spring Boot) · Node.js/TypeScript · APIs REST · Automação
+**Backend:** Java (Spring Boot) · Node.js/TypeScript · APIs REST · Automação
 **Banco de dados:** PostgreSQL · MongoDB · Supabase (realtime)
-**Cloud:** AWS (fundamentos — EC2, S3, Lambda, IAM)
-**Ferramentas:** Git · GitHub · Docker · Versionamento de código · IDEs
+**Ferramentas:** Git · GitHub · Docker · Postman · Versionamento de código · IDEs
 
 ---
 
@@ -66,7 +62,7 @@ Tenho grande interesse por automação e integração de sistemas. Estou constru
 | [**Vizi CRM**](https://github.com/nhatilla-integration/vizi-crm) | Camada analítica que identifica gargalos no funil de vendas em tempo real | React · Tailwind · Supabase |
 | [**Simulador de NFS-e**](https://github.com/nhatilla-integration/nfse-simulador) | API que simula o ciclo de emissão fiscal municipal, com modelagem híbrida SQL/NoSQL | Node.js · TypeScript · PostgreSQL · MongoDB |
 | [**Vizi Imóveis**](https://github.com/nhatilla-integration/vizi-imoveis) | Gestão de imóveis para aluguel: contratos, inquilinos e histórico de manutenções | React · Tailwind · Supabase |
-| [**Vendas API**](https://github.com/nhatilla-integration/vendas-api) | API REST para cadastro e atualização de vendas, com autenticação e auditoria | Java · Spring Boot · PostgreSQL |
+| [**Vizi Vendas**](https://github.com/nhatilla-integration/vizi-pdv) | Ponto de venda (PDV) para pequenos comércios: vendas, estoque e caixa num só app, com papéis de gestor, funcionário e dono | React · TypeScript · Supabase |
 
 ---
 
